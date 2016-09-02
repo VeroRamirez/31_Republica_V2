@@ -1,0 +1,66 @@
+.assid{
+	max-width: 100%;
+
+}
+
+@media screen and (max-width: 767px) {
+
+	.titulo{
+		font-size: 18px !important;
+	}
+	.mini{
+		font-size: 12px;
+	}
+}
+
+@media screen and (max-width: 905px) and (min-width: 0px) {
+
+	.peque{
+		font-size: 10px !important;
+	}
+	.uno{
+		font-size: 14px;
+	}
+	.dos{
+		font-size: 13px;
+
+	}
+	.tres{
+		font-size: 12px;
+
+	}
+}
+
+@media screen and (max-width: 1030px) and (min-width: 771px) {
+
+	.uno{
+		font-size: 13px;
+	}
+	.dos{
+		font-size: 12px;
+
+	}
+	.tres{
+		font-size: 11px;
+		
+	}
+@media screen and (max-width: 771px) and (min-width: 587px) {
+
+	.uno{
+		font-size: 14px;
+	}
+	.dos{
+		font-size: 12px;
+
+	}
+	.tres{
+		font-size: 10px;
+	}
+	aside{
+	position: fixed;
+	margin-top:-13%;
+	padding: 0%
+}
+.asid{
+	margin-left: -5%;
+}
